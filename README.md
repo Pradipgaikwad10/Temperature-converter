@@ -1,2 +1,2 @@
 # Temperature-converter
-Web development intern at LGM
+Web development 
